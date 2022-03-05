@@ -10,7 +10,6 @@ void introduce_Char(Character const *character) {
 
 int main()
 {
-
     // polymorphism function requires pointer/reference and virtual class
     Character *Mokujin(0);
     Mokujin = new Character("Mokujin", "N\a", 100, 35);
