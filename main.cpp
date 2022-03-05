@@ -1,8 +1,5 @@
 #include <iostream>
 #include <Character.h>
-#include <vector>
-#include <numeric>
-#include <inttypes.h>
 
 using namespace std;
 
